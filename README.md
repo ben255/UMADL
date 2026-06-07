@@ -1,4 +1,4 @@
-# UMAD-L
+# UMADL
 Unified Modular Architecture Design-Language
 
 Why do we even write code anymore? Ive always liked UML and people have wanted to make it into a language as its very much possible but the code part has been a massive issue until now with AI.
